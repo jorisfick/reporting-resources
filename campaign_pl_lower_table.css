@@ -87,11 +87,11 @@ Light grey: f2f7fc
 
 /* italic rows to highlight certain metrics */
 .reportTable tr:nth-child(4) {
-  font-weight: italic !important;
+  font-style: italic !important;
 }
 
 .reportTable tr:nth-child(8) {
-  font-weight: italic !important;
+  font-style: italic !important;
 }
 
 .left {
