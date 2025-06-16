@@ -77,26 +77,12 @@ Light grey: f2f7fc
 }
 
 /* bold rows to highlight certain metrics */
-.reportTable tr:nth-child(3) {
+.reportTable tr:nth-child(5) {
   font-weight: bold !important;
 }
 
 .reportTable tr:nth-child(10) {
   font-weight: bold !important;
-}
-
-.reportTable tr:nth-child(16) {
-  font-weight: bold !important;
-}
-
-/* cursive rows to highlight certain metrics */
-
-.reportTable tr:nth-child(4) {
-  font-style: italic !important;
-}
-
-.reportTable tr:nth-child(11) {
-  font-style: italic !important;
 }
 
 .left {
